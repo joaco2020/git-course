@@ -23,7 +23,7 @@ void Enteros::mayor() {
 			may = ent[i];
 		}
 	}
-	cout << "el mayor es " << may;
+	cout << "el mayor es es " << may;
 	
 }
 void Enteros::menor() {
